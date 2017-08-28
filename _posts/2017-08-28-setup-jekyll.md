@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setting up Jekyll on Mac OS"
-date: 2014-04-30
+date: 2017-08-28
 ---
 
 Ensure you have hombrew installed. We will need RubyGems (gem) package manager to install Jekyll.
